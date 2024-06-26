@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-  لتحميل كتاب _مقدمة في الفيزياء الكلاسيكية_، [اضغط هنا.](https://drive.google.com/file/d/1B8fXg9K3h5t75UaM08WPSwTlLTvYLfQY/view?usp=sharing)
+  لتحميل كتاب _مقدمة في الفيزياء الكلاسيكية_، [اضغط هنا.](https://drive.google.com/file/d/1RUBjs-O7c6xSsG7mkhXUhMJh8tDf8OYC/view?usp=share_link)
  
  "فقد رأيت كتابة هذا الكتاب ليكون مرجعا للطلبة الجامعيين الذين يدرسون الفيزياء في عامهم الأكاديمي الأول، وثمة أشياء عدة  قد تميز هذا الكتاب عن الكتب الأخرى في هذا المجال، وهي: \
        1) متاح مجانا عبر الموقع،
