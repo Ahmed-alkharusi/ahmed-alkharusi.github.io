@@ -3,6 +3,16 @@
 <!-- I added dir="rtl" remove this for eng. lang.-->
   <!-- Head -->
   <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6Y860C4D2R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6Y860C4D2R');
+</script>
+    
   {%- if page.redirect -%}
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
   {%- endif -%}
